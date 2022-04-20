@@ -13,10 +13,6 @@
   
   ##
   
-  <br>
-  
-  <div>
-  
   I'm a Software Engineer 
   
   <details>
@@ -53,8 +49,6 @@ const vic = {
   </div>
 </details>
     
-  </div>    
-  
   ##
   
   <div>
