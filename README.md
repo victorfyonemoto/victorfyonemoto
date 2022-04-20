@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello, World! 👋
 <div align="center">
   <a href="https://github.com/victorfyonemoto">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorfyonemoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -9,7 +9,41 @@
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+  
+  <details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
+const vic = {
+    personal: {
+        fullName: 'Victor Ferreira Yonemoto',
+        birthDate: '1994-02-21',
+        pronouns: 'he' | 'him',
+        interests: ['music', 'games', 'language learning', 'anime'],
+        motivation: [
+            'Making life easier and smarter through tech', 
+            'Help improving diversity and inclusion',
+            'Learning new things',
+        ],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['React'],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['styled-components', 'Bootstrap'],
+            },
+            backEnd: {
+                Javascript: ['Node.js']
+            },
+        },
+    }
+}
+```
+  </div>
+</details>
+  
   ##
   
   <div>
