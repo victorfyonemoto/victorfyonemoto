@@ -19,7 +19,7 @@
   
   <details>
   <summary> More about me</summary>
-<div align="left">
+<div style="display: flex" align="left">
  
 ``` js
 const vic = {
