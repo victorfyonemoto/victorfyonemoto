@@ -12,6 +12,8 @@
   
   <br>
   
+  I'm a Software Engineer 
+  
   <details>
   <summary> More about me</summary>
 <div align="left">
