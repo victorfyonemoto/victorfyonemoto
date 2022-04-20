@@ -34,7 +34,7 @@ const vic = {
         fullName: 'Victor Ferreira Yonemoto',
         birthDate: '1994-02-21',
         pronouns: 'he' | 'him',
-        interests: ['anime', 'games', 'music', 'language learning'],
+        interests: ['anime', 'games', 'open source', 'music', 'language learning'],
         motivation: [
             'Making life easier and smarter through tech', 
             'Help improving diversity and inclusion',
