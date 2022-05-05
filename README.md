@@ -31,25 +31,25 @@
 ``` js
 const vic = {
     personal: {
-        fullName: 'Victor Ferreira Yonemoto',
-        birthDate: '1994-02-21',
-        pronouns: 'he' | 'him',
-        interests: ['anime', 'games', 'open source', 'music', 'language learning'],
+        fullName: 'Victor Ferreira Yonemoto';
+        birthDate: '1994-02-21';
+        pronouns: 'he' | 'him';
+        interests: ['anime', 'games', 'open source', 'music', 'language learning'];
         motivation: [
-            'Making life easier and smarter through tech', 
-            'Help improving diversity and inclusion',
-            'Learning new things',
+            'Making life easier and smarter through tech'; 
+            'Help improving diversity and inclusion';
+            'Learning new things';
         ],
     },
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['React'],
-                HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['styled-components', 'Bootstrap'],
+                Javascript: ['React', 'Angular'];
+                HTML: ['HTML5', 'Semantic HTML'];
+                CSS: ['styled-components', 'Bootstrap'];
             },
             backEnd: {
-                Javascript: ['Node.js']
+                Javascript: ['Node.js'];
             },
         },
     }
