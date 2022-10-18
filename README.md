@@ -44,12 +44,13 @@ const vic = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['React', 'Angular'];
+                Javascript: ['React'];
                 HTML: ['HTML5', 'Semantic HTML'];
                 CSS: ['styled-components', 'Bootstrap'];
             },
             backEnd: {
                 Javascript: ['Node.js'];
+                DB: ['SQL']
             },
         },
     }
