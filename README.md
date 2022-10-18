@@ -50,7 +50,8 @@ const vic = {
             },
             backEnd: {
                 Javascript: ['Node.js'];
-                DB: ['SQL']
+                DB: ['SQL'];
+                Python: ['Django'];
             },
         },
     }
