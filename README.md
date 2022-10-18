@@ -43,16 +43,12 @@ const vic = {
     },
     technical: {
         technologies: {
-            frontEnd: {
-                Javascript: ['React'];
-                HTML: ['HTML5', 'Semantic HTML'];
-                CSS: ['styled-components', 'Bootstrap'];
-            },
-            backEnd: {
-                Javascript: ['Node.js'];
-                DB: ['SQL'];
-                Python: ['Django'];
-            },
+            Javascript: ['ReactJS'];
+            HTML: ['HTML5', 'Semantic HTML'];
+            CSS: ['styled-components', 'Bootstrap'];
+            Javascript: ['Node.js'];
+            DataBase: ['SQL'];
+            Python: ['Django'];
         },
     }
 }
