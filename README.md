@@ -49,8 +49,8 @@ const vic = {
               CSS: ['styled-components', 'Bootstrap'],
             },
             backEnd: {
-              Javascript: ['Node.js'];
-              DataBase: ['SQL'];
+              Javascript: ['Node.js'],
+              DataBase: ['SQL'],
             }
         },
     }
