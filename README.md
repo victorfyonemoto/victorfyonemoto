@@ -62,6 +62,6 @@ const vic = {
     
   ##
   
-  <div>
-    <a href="https://www.linkedin.com/in/victorfyonemoto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
-  </div>
+ [![Twitter: victorf_y](https://img.shields.io/twitter/follow/victorf_y?style=social)](https://twitter.com/victorf_y)
+ [![Linkedin: victorfy](https://img.shields.io/badge/-victorfy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorfy/)](https://www.linkedin.com/in/victorfy/)
+ [![GitHub: victorfyonemoto](https://img.shields.io/github/followers/victorfyonemoto?label=follow&style=social)](https://github.com/victorfyonemoto)
