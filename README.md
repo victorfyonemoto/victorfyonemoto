@@ -63,5 +63,5 @@ const vic = {
   ##
   
  [![Twitter: victorf_y](https://img.shields.io/twitter/follow/victorf_y?style=social)](https://twitter.com/victorf_y)
- [![Linkedin: victorfy](https://img.shields.io/badge/-victorfy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorfy/)](https://www.linkedin.com/in/victorfy/)
+ [![Linkedin: victorfy](https://img.shields.io/badge/-victorfy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorfyonemoto/)](https://www.linkedin.com/in/victorfyonemoto/)
  [![GitHub: victorfyonemoto](https://img.shields.io/github/followers/victorfyonemoto?label=follow&style=social)](https://github.com/victorfyonemoto)
