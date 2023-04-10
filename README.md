@@ -1,4 +1,3 @@
-## Hello, World ! 👋
 <div align="center">
   <a href="https://github.com/victorfyonemoto">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorfyonemoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,51 +15,6 @@
   </div>
   
   <br>
-  
-  ##
-  
-  <div align="center">
-  
-  I'm a Software Engineer 
-  
-  <details>
-  <summary> More about me</summary>
-<div align="left">
- 
-``` js
-const vic = {
-    personal: {
-        fullName: 'Victor Ferreira Yonemoto',
-        birthDate: '1994-02-21',
-        pronouns: 'he' | 'him',
-        interests: ['anime', 'games', 'open source', 'music', 'language learning'],
-        motivation: [
-            'Making life easier and smarter through tech',
-            'Help improving diversity and inclusion',
-            'Learning new things',
-        ],
-    },
-    technical: {
-        technologies: {
-            frontEnd: {
-              Javascript: ['ReactJS'],
-              HTML: ['HTML5', 'Semantic HTML'],
-              CSS: ['styled-components', 'Bootstrap'],
-            },
-            backEnd: {
-              Javascript: ['Node.js'],
-              DataBase: ['SQL'],
-            }
-        },
-    }
-}
-```
-  </div>
-</details>
-  
-  </div>
-    
-  ##
  
  [![GitHub: victorfyonemoto](https://img.shields.io/github/followers/victorfyonemoto?label=follow&style=social)](https://github.com/victorfyonemoto)
  [![Twitter: victorf_y](https://img.shields.io/twitter/follow/victorf_y?style=social)](https://twitter.com/victorf_y)
